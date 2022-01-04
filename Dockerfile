@@ -1,4 +1,4 @@
-FROM node:carbon-alpine
+FROM node:12-alpine
 MAINTAINER Sven Walther sven@walther.world
 
 # Create app directory
